@@ -22,13 +22,13 @@ You will need to build a prototype, **hybrid datalake with a mysql database and 
 namely analytical users and large scale AI algorithms.
 
 Extra points will be awarded for:
-- **diagrams**. "A picture is worth a 1000 words"
-- *detailing the key requirements* of `analytical users` and `AI algorithm` usecases
-- **Adding** value with additional **features**. For example `notable persons` and `topics covered`.
-- A short exploration on **ethical API querying practices** in the context of this work.
-- detailing the **deployment infrastructure** for this solution, incl. workflow diagram, implementing effective version control.
-- your **insights and discoveries** from this exercise.
-- possible **next steps**.
+- :chart_with_upwards_trend: **diagrams**. "A picture is worth a 1000 words" 
+- :clipboard: *detailing the key requirements* of `analytical users` and `AI algorithm` usecases
+- :heavy_plus_sign: **Adding** value with additional **features**. For example `notable persons` and `topics covered`.
+- :large_blue_diamond: A short exploration on **ethical API querying practices** in the context of this work.
+- :rocket: detailing the **deployment infrastructure** for this solution, incl. workflow diagram, implementing effective version control.
+- 🧠 your **insights and discoveries** from this exercise.
+- :fast_forward: possible **next steps**.
 
 
 #### What is expected?
